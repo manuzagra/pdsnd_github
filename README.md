@@ -12,3 +12,5 @@ bikeshare.py handles the sharing of the bikes
 
 ## Credits
 This is a fork from udacity/pdsnd_github
+
+Note: refactoring task in progress. expected finishe end of the year
